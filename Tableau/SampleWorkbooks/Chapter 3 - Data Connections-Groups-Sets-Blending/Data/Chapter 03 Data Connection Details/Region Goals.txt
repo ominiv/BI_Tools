@@ -1,0 +1,6 @@
+Area,Goal
+Central,3000000
+East,2000000
+International,25000000
+South,2500000
+West,1750000
